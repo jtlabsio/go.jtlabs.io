@@ -1,0 +1,13 @@
+{
+  "domain": "go.jtlabs.io",
+  "repositories": [
+    {
+      "prefix": "query",
+      "url": "https://github.com/jtlabsio/query"
+    },
+    {
+      "prefix": "mongo",
+      "url": "https://github.com/jtlabsio/mongo"
+    }
+  ]
+}
